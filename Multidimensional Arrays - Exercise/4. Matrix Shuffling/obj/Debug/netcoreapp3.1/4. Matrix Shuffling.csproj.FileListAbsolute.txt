@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.exe
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.deps.json
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.dll
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.pdb
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.dll
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.pdb
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\bin\Debug\netcoreapp3.1\01. Apocalypse Preparation.exe
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\bin\Debug\netcoreapp3.1\01. Apocalypse Preparation.deps.json
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\bin\Debug\netcoreapp3.1\01. Apocalypse Preparation.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\bin\Debug\netcoreapp3.1\01. Apocalypse Preparation.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\bin\Debug\netcoreapp3.1\01. Apocalypse Preparation.dll
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\bin\Debug\netcoreapp3.1\01. Apocalypse Preparation.pdb
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\netcoreapp3.1\01. Apocalypse Preparation.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\netcoreapp3.1\01. Apocalypse Preparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\netcoreapp3.1\01. Apocalypse Preparation.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\netcoreapp3.1\01. Apocalypse Preparation.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\netcoreapp3.1\01. Apocalypse Preparation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\netcoreapp3.1\01. Apocalypse Preparation.dll
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\netcoreapp3.1\01. Apocalypse Preparation.pdb
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\netcoreapp3.1\01. Apocalypse Preparation.genruntimeconfig.cache

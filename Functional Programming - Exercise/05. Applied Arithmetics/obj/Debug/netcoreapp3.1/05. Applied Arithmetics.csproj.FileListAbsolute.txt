@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.exe
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.deps.json
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.genruntimeconfig.cache

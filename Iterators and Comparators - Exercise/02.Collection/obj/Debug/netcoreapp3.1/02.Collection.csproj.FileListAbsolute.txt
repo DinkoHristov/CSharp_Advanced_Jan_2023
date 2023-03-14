@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.exe
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.deps.json
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.dll
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.pdb
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.dll
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.pdb
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.genruntimeconfig.cache

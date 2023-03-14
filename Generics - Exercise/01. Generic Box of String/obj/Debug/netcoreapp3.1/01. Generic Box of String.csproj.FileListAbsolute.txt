@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.exe
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.deps.json
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.dll
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.pdb
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.dll
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.pdb
+D:\SoftUni\C#Code\C# Advanced\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.genruntimeconfig.cache

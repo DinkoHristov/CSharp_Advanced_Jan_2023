@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.exe
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.deps.json
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.dll
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.pdb
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.dll
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.pdb
+D:\SoftUni\C#Code\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.exe
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.deps.json
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.dll
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.pdb
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.dll
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.pdb
+D:\SoftUni\C#Code\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.genruntimeconfig.cache

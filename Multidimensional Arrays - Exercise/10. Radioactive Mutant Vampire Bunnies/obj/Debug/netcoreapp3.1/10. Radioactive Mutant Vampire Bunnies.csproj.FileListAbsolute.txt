@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.exe
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.deps.json
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.dll
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.pdb
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.dll
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.pdb
+D:\SoftUni\C#Code\C# Advanced\Multidimensional Arrays - Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\10. Radioactive Mutant Vampire Bunnies.genruntimeconfig.cache

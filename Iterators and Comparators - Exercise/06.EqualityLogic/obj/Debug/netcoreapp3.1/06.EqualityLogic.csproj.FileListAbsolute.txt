@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.exe
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.deps.json
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.dll
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\bin\Debug\netcoreapp3.1\06.EqualityLogic.pdb
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.dll
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.pdb
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\06.EqualityLogic\obj\Debug\netcoreapp3.1\06.EqualityLogic.genruntimeconfig.cache

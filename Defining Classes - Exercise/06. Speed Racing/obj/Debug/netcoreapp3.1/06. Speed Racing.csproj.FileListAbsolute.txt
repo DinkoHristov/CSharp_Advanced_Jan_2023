@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.exe
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.deps.json
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.dll
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.pdb
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.dll
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.pdb
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.exe
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.deps.json
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.dll
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.pdb
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.dll
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.pdb
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.genruntimeconfig.cache

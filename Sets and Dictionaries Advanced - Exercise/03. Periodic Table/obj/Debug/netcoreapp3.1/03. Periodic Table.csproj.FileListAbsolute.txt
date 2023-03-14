@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.exe
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.deps.json
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.dll
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.pdb
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.dll
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.pdb
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.genruntimeconfig.cache

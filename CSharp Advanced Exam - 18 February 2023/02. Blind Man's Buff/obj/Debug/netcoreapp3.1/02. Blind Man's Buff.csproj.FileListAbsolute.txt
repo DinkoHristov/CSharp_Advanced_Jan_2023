@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\bin\Debug\netcoreapp3.1\02. Blind Man's Buff.exe
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\bin\Debug\netcoreapp3.1\02. Blind Man's Buff.deps.json
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\bin\Debug\netcoreapp3.1\02. Blind Man's Buff.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\bin\Debug\netcoreapp3.1\02. Blind Man's Buff.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\bin\Debug\netcoreapp3.1\02. Blind Man's Buff.dll
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\bin\Debug\netcoreapp3.1\02. Blind Man's Buff.pdb
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\obj\Debug\netcoreapp3.1\02. Blind Man's Buff.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\obj\Debug\netcoreapp3.1\02. Blind Man's Buff.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\obj\Debug\netcoreapp3.1\02. Blind Man's Buff.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\obj\Debug\netcoreapp3.1\02. Blind Man's Buff.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\obj\Debug\netcoreapp3.1\02. Blind Man's Buff.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\obj\Debug\netcoreapp3.1\02. Blind Man's Buff.dll
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\obj\Debug\netcoreapp3.1\02. Blind Man's Buff.pdb
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\02. Blind Man's Buff\obj\Debug\netcoreapp3.1\02. Blind Man's Buff.genruntimeconfig.cache

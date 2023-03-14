@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\netcoreapp3.1\09. SoftUni Exam Results.exe
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\netcoreapp3.1\09. SoftUni Exam Results.deps.json
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\netcoreapp3.1\09. SoftUni Exam Results.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\netcoreapp3.1\09. SoftUni Exam Results.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\netcoreapp3.1\09. SoftUni Exam Results.dll
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\netcoreapp3.1\09. SoftUni Exam Results.pdb
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.dll
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.pdb
+D:\SoftUni\C#Code\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.genruntimeconfig.cache

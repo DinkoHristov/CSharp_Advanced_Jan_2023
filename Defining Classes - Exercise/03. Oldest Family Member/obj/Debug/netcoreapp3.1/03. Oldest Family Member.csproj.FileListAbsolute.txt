@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.exe
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.deps.json
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.dll
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.pdb
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.dll
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.pdb
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.genruntimeconfig.cache

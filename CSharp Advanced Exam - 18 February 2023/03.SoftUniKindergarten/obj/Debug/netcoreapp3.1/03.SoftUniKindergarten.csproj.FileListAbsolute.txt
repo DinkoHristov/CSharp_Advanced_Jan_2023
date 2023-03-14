@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\bin\Debug\netcoreapp3.1\03.SoftUniKindergarten.exe
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\bin\Debug\netcoreapp3.1\03.SoftUniKindergarten.deps.json
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\bin\Debug\netcoreapp3.1\03.SoftUniKindergarten.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\bin\Debug\netcoreapp3.1\03.SoftUniKindergarten.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\bin\Debug\netcoreapp3.1\03.SoftUniKindergarten.dll
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\bin\Debug\netcoreapp3.1\03.SoftUniKindergarten.pdb
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\obj\Debug\netcoreapp3.1\03.SoftUniKindergarten.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\obj\Debug\netcoreapp3.1\03.SoftUniKindergarten.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\obj\Debug\netcoreapp3.1\03.SoftUniKindergarten.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\obj\Debug\netcoreapp3.1\03.SoftUniKindergarten.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\obj\Debug\netcoreapp3.1\03.SoftUniKindergarten.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\obj\Debug\netcoreapp3.1\03.SoftUniKindergarten.dll
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\obj\Debug\netcoreapp3.1\03.SoftUniKindergarten.pdb
+D:\SoftUni\C#Code\C# Advanced\CSharp Advanced Exam - 18 February 2023\03.SoftUniKindergarten\obj\Debug\netcoreapp3.1\03.SoftUniKindergarten.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.exe
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.deps.json
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.dll
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.pdb
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.dll
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.pdb
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.genruntimeconfig.cache

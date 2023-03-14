@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.exe
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.deps.json
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.dll
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.pdb
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.dll
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.pdb
+D:\SoftUni\C#Code\C# Advanced\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.genruntimeconfig.cache

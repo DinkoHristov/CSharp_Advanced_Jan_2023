@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.exe
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.deps.json
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.dll
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.pdb
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.dll
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.pdb
+D:\SoftUni\C#Code\C# Advanced\Iterators and Comparators - Exercise\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.genruntimeconfig.cache

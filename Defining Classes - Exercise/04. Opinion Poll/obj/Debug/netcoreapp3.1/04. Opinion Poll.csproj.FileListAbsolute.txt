@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04. Opinion Poll.exe
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04. Opinion Poll.deps.json
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04. Opinion Poll.runtimeconfig.json
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04. Opinion Poll.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04. Opinion Poll.dll
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04. Opinion Poll.pdb
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.dll
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.pdb
+D:\SoftUni\C#Code\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.genruntimeconfig.cache
